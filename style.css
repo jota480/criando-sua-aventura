@@ -1,0 +1,16 @@
+body{
+   background-color: #207929;
+    color: white;
+   font-family: "Bai janjuree" , sans serif;
+   display: flex;
+   justify-content: center;
+
+
+ 
+}
+
+ button{
+    background-color: #207929;
+    color: white;
+    font-family: "Bai Janjuree", sans-serif;
+ }
